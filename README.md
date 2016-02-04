@@ -6,8 +6,8 @@ RankedAPI is an A/B testing tool for SEO.
 
 RankedAPI improves SEO strategies in two ways:
 
-1. Discovering promising opportunities which justify further investment, and
-2. Flagging SEO tactics which are doomed to damage your PageRank.
+1. Discovering promising SEO opportunities which justify further investment, and
+2. Flagging SEO tactics which might actually hurt your overall search rankings.
 
 ## Up and running with RankedAPI in five minutes
 
