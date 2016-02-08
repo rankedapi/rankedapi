@@ -17,7 +17,7 @@ We want to improve our rankings so we can grow our audience. We have a hypothesi
 
 Let's see how RankedAPI can either confirm or reject the hypothesis.
 
-### Step 1: Authenicate
+### Step 1: Authenticate
 
 First, get an API key and secret. Go to the [signup page](#) to request them. Let's say you get back the API key `api_key` and the API secret `api_secret`.
 
@@ -33,7 +33,7 @@ $> curl https://api.rankedapi.com/v0/experiments \
       # Notice that each experiment tests a hypothesis
 ```
 
-An authenticated POST to the `/experiments` endpoint will give a simple JSON blog in the response body:
+An authenticated POST to the `/experiments` endpoint will give a simple JSON blob in the response body:
 
 ```json
 {
